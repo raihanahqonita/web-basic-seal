@@ -1,0 +1,9 @@
+{
+	"messages": [
+		"The file '{0}' does not exist."
+	],
+	"keys": [
+		"fileDNE"
+	],
+	"filePath": "src/manager"
+}

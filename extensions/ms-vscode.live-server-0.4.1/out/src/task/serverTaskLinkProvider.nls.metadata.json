@@ -1,0 +1,9 @@
+{
+	"messages": [
+		"Open in Preview"
+	],
+	"keys": [
+		"openInPreview"
+	],
+	"filePath": "src/task/serverTaskLinkProvider"
+}
