@@ -1,0 +1,27 @@
+.image-hero{
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+}
+
+.tittle{
+    font-family: 'Raleway', sans-serif;
+}
+
+.subtittle{
+    letter-spacing: 10px;
+}
+
+.hero{
+    height: 95vh;
+}
+
+.text-about{
+    text-indent: 50px;
+    text-align: justify;
+}
+
+.card-img-top{
+    height: 200px;
+    object-fit: cover;
+}
